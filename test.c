@@ -2,7 +2,9 @@
 
 void main(void){
 	printf("hello");
-	pritnf("master's");
+
+	pritnf("JO");
+
 	return 0;
 }
 
